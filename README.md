@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-🎤 Podcast ARTsOUT | 艺术出圈 Host&Creator
+🎤 Podcast ARTsOUT | 艺术出圈 Host&Creator  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pxd0207&theme=dracula&show_icons=true)
 💼 Forbes 50 Fintech Firm
 📈 Alternative Investment | Hedge Fund
 Finance
@@ -10,5 +10,4 @@ Finance
  ENTJ-T
 ```
 <!--END_SECTION:waka-->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pxd0207&theme=dracula&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxd0207)](https://github.com/anuraghazra/github-readme-stats)
