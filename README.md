@@ -2,7 +2,7 @@
 
 > 🎧 Lo-fi重度爱好者 | 纪录片迷
 
-<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=pxd0207&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" align="up">
+<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=pxd0207&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" align="right">
 
 **Where to find me**
 
