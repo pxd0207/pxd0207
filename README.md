@@ -11,7 +11,7 @@
 - [E-Mail](mailto:pxd0207@gmail.com)
 
 🎤 Podcast ARTsOUT | 艺术出圈 Host&Creator  
-💼 Forbes 50 Fintech Firm
+💼 Forbes 50 Fintech Firm</br>
 📈 Alternative Investment | Hedge Fund
 Finance
 📷 Photographer | 📸 NYFW for 4yrs
