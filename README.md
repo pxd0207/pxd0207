@@ -15,7 +15,7 @@
 📈 Alternative Investment | Hedge Fund</br>
 Finance</br>
 📷 Photographer | 📸 NYFW for 4yrs</br>
-      ex-United Nations</br>
- 📍 New York City |  WFH in Florida</br>
- ENTJ-T</br>
+🇺🇳 ex-United Nations</br>
+📍 New York City |  WFH in Florida</br>
+👩🏻‍💻 ENTJ-T</br>
 
