@@ -2,6 +2,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxd0207)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+我是菜鸡
 ```
 <!--END_SECTION:waka-->
