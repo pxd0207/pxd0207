@@ -22,4 +22,3 @@ Finance</br>
 📍 New York City |  WFH in Florida</br>
 👩🏻‍💻 ENTJ-T</br>
 
-<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=pxd0207&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" align="right">
