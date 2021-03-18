@@ -19,6 +19,6 @@ Finance</br>
 📍 New York City |  WFH in Florida</br>
 👩🏻‍💻 ENTJ-T</br>
 
-<img align="right" src="https://cdn.jsdelivr.net/gh/Kyomotoi/Kyomotoi/LunaSakurakouji.png" width='380px'>
+<img align="right" src="https://cdn.jsdelivr.net/gh/Kyomotoi/Kyomotoi/LunaSakurakouji.png" width='120px'>
 
-![Kyomotoi](https://count.getloli.com/get/@:kyomotoi?theme=rule34)
+![Kyomotoi](https://count.getloli.com/get/@:evilcos?theme=rule34)
