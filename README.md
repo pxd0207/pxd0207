@@ -1,8 +1,11 @@
+<img align="right" src="https://cdn.jsdelivr.net/gh/Kyomotoi/Kyomotoi/LunaSakurakouji.png" width='240px'>
+
+![Kyomotoi](https://count.getloli.com/get/@:evilcos?theme=rule34)
+
 #### Hi there 👋, I am [pxd0207](https://pxd0207.github.io)
 
 > 🎧 Lo-fi重度爱好者 | 纪录片迷
 
-<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=pxd0207&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" align="right">
 
 **Where to find me**
 
@@ -19,6 +22,4 @@ Finance</br>
 📍 New York City |  WFH in Florida</br>
 👩🏻‍💻 ENTJ-T</br>
 
-<img align="right" src="https://cdn.jsdelivr.net/gh/Kyomotoi/Kyomotoi/LunaSakurakouji.png" width='240px'>
-
-![Kyomotoi](https://count.getloli.com/get/@:evilcos?theme=rule34)
+<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=pxd0207&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" align="right">
