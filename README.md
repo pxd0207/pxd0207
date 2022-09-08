@@ -2,7 +2,7 @@
 
 ![Kyomotoi](https://count.getloli.com/get/@:evilcos?theme=rule34)
 
-#### Hi there 👋, I am [pxd0207](https://pxd0207.github.io)
+#### Hi there 👋, I am [pxd0207](1)
 
 > 🎧 Lo-fi重度爱好者 | 纪录片迷
 
