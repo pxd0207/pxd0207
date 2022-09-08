@@ -9,9 +9,9 @@
 
 **Where to find me**
 
-- [My Blog](https://pxd0207.github.io)
-- [Telegram](https://t.me/pxd0207)
-- [E-Mail](mailto:pxd0207@gmail.com)
+- [My Blog](1)
+- [Telegram](1)
+- [E-Mail](1)
 
 🎤 Podcast ARTsOUT | 艺术出圈 Host&Creator</br>
 💼 Forbes 50 Fintech Firm</br>
